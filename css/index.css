@@ -79,7 +79,7 @@ header {
 }
 
 header a {
-    margin: 35px;
+    margin: 30px;
     color: black;
     text-decoration: none;
 }
@@ -260,4 +260,12 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+}
+
+.top-content .texcon2 {
+    margin: 20px;
+}
+
+.top-content .text-container button {
+    margin-top: 20px;
 }
