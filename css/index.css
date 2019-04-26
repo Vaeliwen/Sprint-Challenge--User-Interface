@@ -103,6 +103,7 @@ header a {
 .middle-content {
     margin-bottom: 20px;
     border-bottom: 1px dashed black;
+    width: 200%;
 }
 
 .middle-content h2 {
