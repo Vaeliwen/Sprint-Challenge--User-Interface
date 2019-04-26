@@ -71,6 +71,21 @@ p {
     margin: 0 auto;
 }
 
+header {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+
+header a {
+    margin: 35px;
+}
+
+.Big {
+    margin-bottom: 30px;
+}
+
 .top-content {
     display: flex;
     flex-wrap: wrap;
