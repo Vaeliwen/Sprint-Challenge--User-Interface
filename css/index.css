@@ -80,6 +80,8 @@ header {
 
 header a {
     margin: 35px;
+    color: black;
+    text-decoration: none;
 }
 
 .Big {
